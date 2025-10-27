@@ -12,6 +12,9 @@ while(x <= 5){
   x <-  x + 1 
 }
 
+# agregar mas comentarios
+
+
 
 
 
